@@ -10,7 +10,6 @@ Sou estudante de programação, minha jornada no desenvolvimento começou pela c
 -  Spring Boot 
 -  Rust
 -  MySQL
--  Git
 
 ## 📫 Contato
 ifagenbruno@proton.me
