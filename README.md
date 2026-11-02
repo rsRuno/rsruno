@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Oi..
 
-<!--
-**rsRuno/rsruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desenvolvedor em formação - Cruzeiro do Sul(UDF) | Java • Spring Boot • Rust
 
-Here are some ideas to get you started:
+Sou estudante de programação, minha jornada no desenvolvimento começou pela curiosidade de entender como os sistemas funcionavam. Atualmente, estou nos studos pra o Back-end, com foco no ecossistema Java e Spring Boot, além de explorar Rust e seus recursos voltados à mémoria.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Atualmente estudando
+
+-  Java
+-  Spring Boot 
+-  Rust
+-  MySQL
+-  Git
+
+## 📫 Contato
+ifagenbruno@proton.me
